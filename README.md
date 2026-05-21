@@ -5,7 +5,7 @@
   </p>
 </div>
 
-I'm a Computer Science student with a focus on **Data Analytics** and **Machine Learning**, currently a rising senior graduating in **May 2026**. I’m passionate about using data to tell stories, uncover insights, and drive meaningful outcomes.
+I’m a Computer Science student pursuing an M.S. in Computer Science at Georgia Institute of Technology, with a strong focus on Data Analytics and Machine Learning. I’m passionate about using data to uncover insights, solve complex problems, and drive meaningful outcomes through analytics and AI.
 
 ---
 
@@ -35,24 +35,27 @@ Analyzing customer segmentation using RFM models in DuckDB + Python. This projec
 </details>
 
 ---
-
 ### 🧰 Tech Stack
 <table>
   <tr>
     <td align="center"><strong>Languages</strong></td>
-    <td>Python, SQL, R, Java, C++, JavaScript, TypeScript, C#, Rust, Lua, Julia, Perl</td>
+    <td>Python, SQL, R, Java, C++, LaTeX</td>
   </tr>
   <tr>
     <td align="center"><strong>Data & ML</strong></td>
-    <td>Pandas, NumPy, Scikit-learn, PyTorch, DuckDB, MongoDB, Tableau, Jupyter Notebook</td>
+    <td>Pandas, NumPy, PyTorch, Scikit-Learn, Matplotlib, Hugging Face Transformers, Jupyter Notebook, Tableau</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Databases</strong></td>
+    <td>MySQL, PostgreSQL, MongoDB</td>
   </tr>
   <tr>
     <td align="center"><strong>Cloud & Platforms</strong></td>
-    <td>AWS, SageMaker Studio, Hugging Face Transformers</td>
+    <td>AWS (SageMaker, S3, EC2), Docker</td>
   </tr>
   <tr>
     <td align="center"><strong>Web & Dev Tools</strong></td>
-    <td>React, Next.js, Git, GitHub, VS Code</td>
+    <td>React, Next.js, Django, Git, GitHub, VS Code</td>
   </tr>
 </table>
 
@@ -63,11 +66,6 @@ Analyzing customer segmentation using RFM models in DuckDB + Python. This projec
 - Bridging the gap between **data science and decision-making**.
 - Building toward **leadership roles** in data-driven product and strategy.
 - Promoting **diversity in tech** and meaningful real-world impact.
-
-### 🌱 Currently Learning
-- Advanced RFM segmentation & customer behavior modeling.
-- Preparing for AWS Certified Data Analyst certification.
-- Creating interactive dashboards for compelling data storytelling.
 
 ---
 
@@ -82,5 +80,5 @@ Analyzing customer segmentation using RFM models in DuckDB + Python. This projec
   </a>
 </p>
 
--   💡 Open to **internships, research, and analytical project collaborations**.
+-   💡 Open to **work, research, and analytical project collaborations**.
 -   🌍 Advocate for **equity and representation in the tech space**.
