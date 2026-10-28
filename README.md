@@ -1,7 +1,7 @@
 <div align="center">
   <h2>👋 Hey there, I'm Meera</h2>
   <p>
-    <strong>Aspiring Data Analyst</strong> | Passionate about <strong>AI for Healthcare</strong>, <strong>Machine Learning</strong>, and Turning Data into Impact
+    <strong>Consultant </strong> | Passionate about <strong>AI, <strong>Machine Learning</strong>, and Turning Data into Impact
   </p>
 </div>
 
@@ -62,7 +62,6 @@ Analyzing customer segmentation using RFM models in DuckDB + Python. This projec
 ---
 
 ### 💡 Interests & Goals
-- Launching a career as a **Data Analyst** in healthcare, tech, or consulting.
 - Bridging the gap between **data science and decision-making**.
 - Building toward **leadership roles** in data-driven product and strategy.
 - Promoting **diversity in tech** and meaningful real-world impact.
@@ -80,5 +79,5 @@ Analyzing customer segmentation using RFM models in DuckDB + Python. This projec
   </a>
 </p>
 
--   💡 Open to **work, research, and analytical project collaborations**.
+-   💡 Open to **research and analytical project collaborations**.
 -   🌍 Advocate for **equity and representation in the tech space**.
